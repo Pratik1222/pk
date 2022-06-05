@@ -1,0 +1,21 @@
+.headers{
+    background-color: #20bf55;
+background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+
+}
+
+.active{
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+.mouse{
+    text-align: center;
+    position: absolute;
+
+    left: 50%;
+    
+    top: 50%;
+    
+    transform: translate(-50%, -50%);
+   color: red;
+   text-shadow:2px 2px 2px #000000
+}
